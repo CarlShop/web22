@@ -9,5 +9,7 @@
 <body>
     <?php echo'Welcome!' ?>
     <h1>This is my web</h1>
+    <button onclick="Duy()">Click me to see unexpected</button>
 </body>
+<script src="code.js"></script>
 </html>
